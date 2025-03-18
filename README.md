@@ -21,11 +21,11 @@ Este projeto foi desenvolvido como um desafio prático na **Rocketseat**, com o 
 ## 🛠️ Estrutura dos Dados
 
 Cada tarefa possui os seguintes atributos:
-- `id` (string): Identificador único da tarefa.
+- `id` (int): Identificador único da tarefa.
 - `name` (string): Nome da tarefa.
 - `description` (string): Descrição da tarefa.
 - `priority` (string): Define a prioridade da tarefa (`high`, `medium`, `low`).
-- `deadLine` (string): Data limite para a realização da tarefa.
+- `deadLine` (int): Data limite para a realização da tarefa.
 - `status` (string): Status da tarefa (`completed`, `processing`, `pending`).
 
 ## 🛠️ Tecnologias Utilizadas
